@@ -1,0 +1,199 @@
+body{
+    text-align: center;
+    background-color: #3d7687;
+    margin-top: 50px;
+    margin: 0%;
+    color: #3d3734;
+    
+}
+p{
+    font-family: 'Itim', cursive;
+    font-size: large;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-width: 7px;
+    width: 10%;
+    border-color: #96b9b0;
+    margin:5rem auto;
+}
+ 
+.top{
+    background-color: #9CB4CC;
+    margin-top: 0%;
+    
+}
+h1{
+    margin: 0 auto ;
+    padding-top: 11%;
+    color: #287894;
+    font-size: 5.62rem; /*1 em = 16px & r will cancel parents defined font-size */
+    font-family: 'Sacramento' , cursive, Arial, sans-serif;
+}
+.Learning{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    
+}
+.secondline{
+    margin:0 0 25px;
+    font-size: 2.5rem; 
+    color: #427385;
+    font-weight: 500;
+    font-family: 'Reenie Beanie', cursive,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.third-line{
+    color: #2e735c;
+    font-size:2.2rem;
+    line-height: 3.2;
+    font-family: 'Rubik Puddles', cursive,Arial, sans-serif;
+}
+
+.mountain{
+    width:100%;
+    margin-bottom: 0;
+}
+
+.middle-first{
+   
+    width: 70%;
+    margin:3em auto;
+    padding-bottom: 12.5px;
+    line-height: 2;
+}
+h2{
+font-family: 'Schoolbell', cursive;
+margin:0 auto;
+
+}
+.middle-top{
+    width:80%;
+    margin:0 auto;
+    margin-bottom: 150px ;
+}
+
+.giphy-grad{
+    width:20%;
+    margin:0 auto;
+}
+.giphy-coding{
+    width:35%;
+    margin: 0 2% 0 9%;
+    float: left;
+}
+
+.giphy-web{
+    width:35%;
+    margin: 0 2% 0 9%;
+    float: right;
+
+}
+
+.middle-left{
+    display:inline-block;
+    width:49.5%;
+    padding: 0 5px ;
+    margin-right: 50%;
+    
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-right{
+    
+    display:inline-block;
+    width:49.5%;
+    padding-left: 5px;
+    margin-left: 50%;
+    text-align: center;
+    line-height: 2;
+}
+.coding{
+    height: 10px;
+    width:10px;
+}
+.mini-prj{
+    margin: 5px;
+}
+
+.bottom{
+    font-family: 'Itim', cursive;
+    font-size: large;
+    background-color:#4e8052;
+    margin-bottom:0;
+    
+}
+
+.contact-me{
+    
+    background-color:#235e8f;
+    margin:20px auto 0;
+    
+}
+h3,.cont{
+    margin: 0;
+}
+
+.links{
+    background-color:  #db3c46ad;
+    padding-bottom: 20px; /* just to compentiate 16px of <h6>ⓒ 2022 NITANT </h6>*/
+}
+a{
+    font-family: 'Itim', cursive;
+    margin: 12px 20px;
+    text-decoration: none;
+    color: #d89375;
+}
+a:hover{
+    color: #efc8a8;
+}
+
+h6{
+    margin: 20px auto 0 ;
+    font-size: .75em; 
+    color: #3d4444;
+    font-family: 'Schoolbell', cursive;
+    
+}
+.btn {
+    margin: 5px 1rem 10px;
+    background: #30C8CF;
+    background-image: -webkit-linear-gradient(top, #30C8CF, #12888D);
+    background-image: -moz-linear-gradient(top, #30C8CF, #12888D);
+    background-image: -ms-linear-gradient(top, #30C8CF, #12888D);
+    background-image: -o-linear-gradient(top, #30C8CF, #12888D);
+    background-image: -webkit-gradient(to bottom, #30C8CF, #12888D);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: 'Itim', cursive;
+    font-size: 25px;
+    font-weight: 20;
+    padding: 10px;
+    -webkit-box-shadow: 1px 1px 20px 0 #00DBFF;
+    -moz-box-shadow: 1px 1px 20px 0 #00DBFF;
+    box-shadow: 1px 1px 20px 0 #00DBFF;
+    text-shadow: 0 0 26px #B774DD;
+    border: solid #0259D7 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+ 
+.btn:hover {
+    border: solid #00C99A 1px;
+    background: #2AE38D;
+    background-image: -webkit-linear-gradient(top, #2AE38D, #42BB82);
+    background-image: -moz-linear-gradient(top, #2AE38D, #42BB82);
+    background-image: -ms-linear-gradient(top, #2AE38D, #42BB82);
+    background-image: -o-linear-gradient(top, #2AE38D, #42BB82);
+    background-image: -webkit-gradient(to bottom, #2AE38D, #42BB82);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
